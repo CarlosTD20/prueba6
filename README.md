@@ -1,2 +1,2 @@
 # prueba6
-Es una prueba
+Esto es una prieba de git y github
